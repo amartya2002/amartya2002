@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amartya2002&hide_rank=true&show_icons=true&bg_color=20,12c2e9,c471ed,f64f59&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amartya2002&hide_rank=true&show_icons=true&bg_color=20,3E5151,DECBA4&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
